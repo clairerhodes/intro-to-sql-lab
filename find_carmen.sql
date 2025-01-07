@@ -79,3 +79,10 @@ SELECT * FROM city WHERE population = 91084;
 
 SOLUTION: 'Santa Monica'
 
+
+
+-- Some of the entries have gotten a bit messed up. For example, the capital of Brazil is not Brasï¿½lia, rather, it is Brasília.
+    -- Update this entry to the correct spelling. Record your update, in the find_carmen.sql file (below I found Carmen), and do a query for one row and copy paste it to show the update.
+
+
+-- Update any other two entries that have gotten messed up.
